@@ -3,6 +3,7 @@
 Hi, I'm Anastasia - an aspiring web developer based in Berlin with a 10 years+ experience in e-commerce luxury fashion
 
 ![Flower](https://i.pinimg.com/736x/e3/02/7c/e3027cb014c8d0b22ea063eec0d589fe.jpg)
+![blur](./blur)
 
 
 
